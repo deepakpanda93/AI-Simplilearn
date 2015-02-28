@@ -1,1 +1,1 @@
-Simplyhack submission form sandeep(deepu730@gmail.com) and sai (rge2aiit@gmail.com)
+Simplihack submission form sandeep(deepu730@gmail.com) and sai (rge2aiit@gmail.com)
