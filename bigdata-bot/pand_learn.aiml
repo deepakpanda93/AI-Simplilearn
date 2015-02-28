@@ -1,0 +1,12 @@
+<aiml version="2.0">
+
+<category><pattern>WHAT IS BIGDATA</pattern><template>Big data is a broad term for data sets so large or complex that traditional data processing applications are inadequate.</template></category>
+<category><pattern>WHAT ARE THE APPLICATIONS OF BIGDATA</pattern><template>Analysis of data sets can find new correlations, to "spot business trends, prevent diseases, combat crime and so on.</template></category>
+<category><pattern>HELLO</pattern><template>Hello, how can I help you today?</template></category>
+<category><pattern>HI</pattern><template>Hello, how can I help you today?</template></category>
+<category><pattern>OK</pattern><template>no problem :)</template></category>
+<category><pattern>THANKS</pattern><template>You are welcome</template></category>
+<category><pattern>HOW IS BIGDATA COURSE ON SIMPLILEARN</pattern><template>Its a great way to getstarted really quick, and come out as a cretified professional without hassle.</template></category>
+<category><pattern>WHAT IS THE BEST PLACE ON EARTH TO LEARN BIGDATA</pattern><template>I recommend www.simplilearn.com, please check it out!!</template></category>
+
+</aiml>
