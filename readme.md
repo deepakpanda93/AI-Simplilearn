@@ -5,6 +5,10 @@ DataStructure:
 Refer SimpliHack/Prediction/Data/readme.md
 
 Dropout prediction: 
+
+DataStructure:
+Refer SimpliHack/Prediction/Data/readme.md
+
 Tools: Python - scikit-learn package
 Dropoff model for each course is computed by collecting anonymous data from users, Probality of dropoff is estimated based on the dropoff model of course
 
