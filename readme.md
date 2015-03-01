@@ -1,13 +1,10 @@
 
 Simplihack submission from sandeep(deepu730@gmail.com) and sai (rge2aiit@gmail.com), The description of this hack is presented online at https://prezi.com/vhmtr8y52ehl/artificial-intelligence-enhanced-online-learning/
 
-DataStructure:
-Refer SimpliHack/Prediction/Data/readme.md
 
 Dropout prediction: 
 
-DataStructure:
-Refer SimpliHack/Prediction/Data/readme.md
+DataStructure: Refer SimpliHack/Prediction/Data/readme.md
 
 Tools: Python - scikit-learn package
 Dropoff model for each course is computed by collecting anonymous data from users, Probality of dropoff is estimated based on the dropoff model of course
